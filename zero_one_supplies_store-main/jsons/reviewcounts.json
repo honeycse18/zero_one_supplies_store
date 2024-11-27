@@ -1,0 +1,81 @@
+{
+    "error": false,
+    "data": {
+        "_id": "646ef58f480bea6c4415316a",
+        "name": "My store",
+        "category": {
+            "_id": "645aa77b21013a7e484ee814",
+            "name": "Electronic"
+        },
+        "location": "Khulna, Bangladesh",
+        "description": "aa",
+        "nid_number": "123698745",
+        "tax_name": "HST",
+        "tax_number": "123456789",
+        "status": "approved",
+        "vendor": "642922e96fbdc0bd7a7c1e64",
+        "createdAt": "2023-05-25T05:43:43.634Z",
+        "updatedAt": "2023-05-31T11:15:03.345Z",
+        "__v": 0,
+        "account_name": "Sabbir",
+        "account_number": "565644",
+        "address_proof": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/address_proof.jpg",
+        "bank_name": "City",
+        "branch": "Khulna",
+        "company_city": "KHulna",
+        "company_country": "Georgia",
+        "company_email": "test@gmail.com",
+        "company_phone": "+880123456789",
+        "company_state": "Khulna",
+        "company_zipcode": "9100",
+        "currency_code": "USD",
+        "currency_symbol": "$",
+        "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png",
+        "nid_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/nid_image.png",
+        "trade_license": "56544",
+        "trade_license_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/trade_license_image.jpg",
+        "vat_certificate_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/vat_certificate_image.jpg",
+        "trade_license_validity": "2023-06-06T18:00:00.000Z",
+        "vat_registration_no": "56544",
+        "rating": {
+            "totalRating": 56.5,
+            "name": "My store",
+            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png",
+            "category": {
+                "_id": "645aa77b21013a7e484ee814",
+                "name": "Electronic"
+            },
+            "_id": "646ef58f480bea6c4415316a",
+            "seller_reviews": 14,
+            "positiveSellerReview": 81,
+            "avg_rating": 4.04,
+            "type": "Best Seller"
+        },
+        "ratingPercentage": [
+            {
+                "_id": {
+                    "rating": 5
+                },
+                "count": 3
+            },
+            {
+                "_id": {
+                    "rating": 4
+                },
+                "count": 8
+            },
+            {
+                "_id": {
+                    "rating": 3.5
+                },
+                "count": 1
+            },
+            {
+                "_id": {
+                    "rating": 3
+                },
+                "count": 2
+            }
+        ]
+    }
+}

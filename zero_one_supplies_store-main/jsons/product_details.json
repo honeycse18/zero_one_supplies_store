@@ -1,0 +1,134 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "_id": "64a8e121e6d98df051a91fea",
+    "store": {
+      "_id": "6476a8abcee8bf63b040995a",
+      "name": "Seller Shop"
+    },
+    "name": "Godasses de Sport",
+    "model": "1000",
+    "brand": {
+      "_id": "646a5aa999d44af33c686c93",
+      "name": "EA Sport"
+    },
+    "categories": [
+      {
+        "_id": "645b3b3ade45c0f6e7f1a6e4",
+        "name": "Sports"
+      }
+    ],
+    "subcategories": [
+      {
+        "_id": "645b3bc4de45c0f6e7f1a6f1",
+        "name": "asia"
+      }
+    ],
+    "child_category": ["64880f3f5b5c52cd7f8a66a2"],
+    "unit": "pcs",
+    "quantity": {
+      "unit_quantity": 1,
+      "stock_quantity": 12,
+      "min_purchase_quantity": 1,
+      "stock_alert_quantity": 2
+    },
+    "quantity_based_price": [
+      {
+        "minimum": 1,
+        "maximum": 10,
+        "price": 850,
+        "_id": "64eedeb70fffb3eae5e79936"
+      },
+      {
+        "minimum": 11,
+        "maximum": 20,
+        "price": 831,
+        "_id": "64eedeb70fffb3eae5e79937"
+      },
+      {
+        "minimum": 21,
+        "maximum": 40,
+        "price": 800,
+        "_id": "64eedeb70fffb3eae5e79938"
+      }
+    ],
+    "tags": ["EA Sport"],
+    "description": {
+      "short": "<p>Chaussure de Football pour joueur Pro</p>\n",
+      "long": "<p><strong>Lorem Ipsum</strong> <span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 14px;font-family: Open Sans;\">is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>\n"
+    },
+    "price": 12,
+    "discount": {
+      "type": "flat",
+      "amount": 23,
+      "start_date": "2023-06-20T00:00:00+06:00",
+      "end_date": "2023-06-20T00:00:00+06:00"
+    },
+    "product_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64a8e121e6d98df051a91fea/product.png",
+    "gallery_images": [
+      "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64a8e121e6d98df051a91fea/gallery.png"
+    ],
+    "thumb_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64a8e121e6d98df051a91fea/thumb.png",
+    "attributes": {
+      "name": "color",
+      "values": ["red"]
+    },
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "0.400 kg",
+        "_id": "64a8e121e6d98df051a91feb"
+      }
+    ],
+    "specification_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "stock_available": true,
+    "stock_visibility": true,
+    "flash_deal": true,
+    "on_sell": true,
+    "best_sell": true,
+    "hot_sell": true,
+    "trend": true,
+    "featured": true,
+    "new_arrival": true,
+    "bulk": false,
+    "trash": false,
+    "user_requested": false,
+    "is_status": true,
+    "popular": true,
+    "delivery_info": {
+      "delivery": 10,
+      "shipping": 120,
+      "product_return": {
+        "days": 7,
+        "msg": "Without Any Damage"
+      }
+    },
+    "variants": [],
+    "createdAt": "2023-07-08T04:08:01.680Z",
+    "updatedAt": "2023-07-12T05:16:51.877Z",
+    "auction": [
+      {
+        "_id": "64a8e21ce6d98df051a92495",
+        "store": "6476a8abcee8bf63b040995a",
+        "product": "64a8e121e6d98df051a91fea",
+        "start_date": "2023-07-08T04:12:01.496Z",
+        "end_date": "2023-07-26T04:12:03.706Z",
+        "current_price": 131,
+        "status": true,
+        "bid_users": [
+          {
+            "user": "6499b1463c17520b05c45d35",
+            "first_name": "abc",
+            "last_name": "def",
+            "bid_amount": "130",
+            "date": "2023-07-08T10:38:13.449Z",
+            "_id": "64a93c95dd03ca647616ee43"
+          }
+        ],
+        "createdAt": "2023-07-08T04:12:12.343Z",
+        "updatedAt": "2023-07-10T05:02:59.582Z"
+      }
+    ]
+  }
+}

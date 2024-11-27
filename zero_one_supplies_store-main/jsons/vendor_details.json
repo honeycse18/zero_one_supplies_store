@@ -1,0 +1,35 @@
+{
+  "error": false,
+  "msg": "Successfully verified",
+  "data": {
+    "_id": "6458942906c88c812ed2ec60",
+    "first_name": "Vendor 1",
+    "last_name": "",
+    "email": "vendor@gmail.com",
+    "role": "vendor",
+    "store": {
+      "_id": "6458961950b9ce1f9ed218a3",
+      "name": "My store",
+      "category": "64294e648940c23fdb2ce8f4",
+      "location": "Khulna, Bangladesh",
+      "description": "aa",
+      "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/logo.webp",
+      "nid_number": "123698745",
+      "nid_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/nid_image.jpg",
+      "address_proof": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/address_proof.jpg",
+      "tax_name": "HST",
+      "tax_number": "123456789",
+      "status": "approved",
+      "vendor": "6458942906c88c812ed2ec60",
+      "store_location": {
+        "location": {
+          "latitude": 22.823716655557885,
+          "longitude": 89.54004307043508
+        },
+        "address": "RGFQ+FX9, Khulna 9100, Bangladesh"
+      },
+      "createdAt": "2023-05-08T06:26:33.793Z",
+      "updatedAt": "2023-05-08T08:10:42.209Z"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "error": false,
+  "data": {
+    "docs": [
+      {
+        "_id": "6517f249adc4ef99afa4b722",
+        "name": "vendor brands...",
+        "description": "testing...",
+        "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/6517f247adc4ef99afa4b71f/brand.png",
+        "active": true,
+        "createdAt": "2023-09-30T10:02:49.765Z",
+        "updatedAt": "2023-09-30T10:21:15.163Z",
+        "isAdded": true
+      },
+      {
+        "_id": "64ebde5faa0ceaca9096e574",
+        "name": "Best Brand",
+        "description": "Best Brand",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64ebde5caa0ceaca9096e55a/brand.png",
+        "active": true,
+        "createdAt": "2023-08-27T23:38:07.298Z",
+        "updatedAt": "2023-09-30T08:18:22.765Z",
+        "isAdded": false
+      },
+      {
+        "_id": "64e07a13a64679add636dba4",
+        "name": "INCONNU",
+        "description": "INCONNU",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64e07a12a64679add636dba2/brand.jpg",
+        "active": true,
+        "createdAt": "2023-08-19T08:15:15.555Z",
+        "updatedAt": "2023-09-30T08:18:28.496Z",
+        "isAdded": false
+      },
+      {
+        "_id": "64c4d2bc564dbbdf889b9f8b",
+        "name": "CHOCO TOGO",
+        "description": "test brand desc",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64ebdf55aa0ceaca9096eb2b/brand.jpg",
+        "active": true,
+        "createdAt": "2023-07-29T08:50:04.164Z",
+        "updatedAt": "2023-09-30T08:18:33.214Z",
+        "isAdded": false
+      },
+      {
+        "_id": "64b90b86368d6e898ee46131",
+        "name": "BB",
+        "description": "",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64b90b84368d6e898ee4612d/brand.png",
+        "active": true,
+        "createdAt": "2023-07-20T10:25:10.612Z",
+        "updatedAt": "2023-09-30T08:18:37.619Z",
+        "isAdded": false
+      },
+      {
+        "_id": "64684a66060034d829c8bdf9",
+        "name": "NASCO",
+        "description": "This is Brand\n",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64b90aeb368d6e898ee4611c/brand.png",
+        "active": true,
+        "createdAt": "2023-05-20T04:19:50.089Z",
+        "updatedAt": "2023-09-30T08:18:41.406Z",
+        "isAdded": false
+      },
+      {
+        "_id": "646459dee862941f4edbbb04",
+        "name": "GIBSON GIN",
+        "description": "aa",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64b90b13368d6e898ee46128/brand.png",
+        "active": true,
+        "createdAt": "2023-05-17T04:36:46.727Z",
+        "updatedAt": "2023-09-30T08:18:45.300Z",
+        "isAdded": false
+      }
+    ],
+    "totalDocs": 7,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

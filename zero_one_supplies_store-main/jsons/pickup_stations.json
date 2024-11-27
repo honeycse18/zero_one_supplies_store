@@ -1,0 +1,15 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "location": {
+        "latitude": 8.983528317744277,
+        "longitude": 1.1364257111903875
+      },
+      "_id": "653a2df332077134ed1576f5",
+      "name": "Sokode",
+      "address": "X4MP+QWX, Sokode, Togo"
+    }
+  ]
+}

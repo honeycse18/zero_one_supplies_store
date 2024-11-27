@@ -1,0 +1,117 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "_id": "64782ef43eafaa9dab6979ed",
+    "order_number": "01S-34",
+    "date": "2023-06-01",
+    "user": {
+      "_id": "646b434301f7500aa8206ef5",
+      "first_name": "jubair",
+      "last_name": "a",
+      "email": "ta99@gmail.com",
+      "phone": "+8801954658826",
+      "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646b434301f7500aa8206ef5/profile.jpg"
+    },
+    "products": [
+      {
+        "product": "646a61d999d44af33c686d0a",
+        "store": {
+          "_id": "646ef58f480bea6c4415316a",
+          "name": "My store",
+          "location": "Khulna, Bangladesh",
+          "description": "aa",
+          "vendor": {
+            "_id": "642922e96fbdc0bd7a7c1e64",
+            "first_name": "01 ",
+            "last_name": "Supplies",
+            "email": "admin@gmail.com",
+            "phone": "+8801725151577"
+          },
+          "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+        },
+        "name": "Sneakers fashion all-match thick-soled striped",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+        "unit": "EA Sport",
+        "quantity": 1,
+        "subtotal": 780,
+        "_id": "64782ef43eafaa9dab6979ee"
+      }
+    ],
+    "net_price": 1780,
+    "subtotal": 1566.4,
+    "discount": 213.6,
+    "discount_coupon": {
+      "code": "2024",
+      "value": 12,
+      "discount_type": "percentage"
+    },
+    "vat": 178,
+    "vat_applied": {
+      "type": "percentage",
+      "value": 10
+    },
+    "delivery": {
+      "location": "Inside of Khulna",
+      "amount": 50
+    },
+    "total": 1744.4,
+    "address": {
+      "location": {
+        "type": "home",
+        "address": "khulna khulna khulna khulna Bangladesh"
+      },
+      "estimated_delivery_day": "2023-06-01T00:00:00.000Z",
+      "received_time": "1"
+    },
+    "payment_status": "pending",
+    "status": "confirm",
+    "createdAt": "2023-06-01T05:39:00.506Z",
+    "updatedAt": "2023-06-04T07:26:56.092Z",
+    "pickup_station": {
+      "_id": "647d31d676427a3893f39732",
+      "name": "khulna pickup point",
+      "address": "Sonadanga, khulna",
+      "charged": 30,
+      "pickup_location": {
+        "latitude": 22.8031599003108,
+        "longitude": 89.53466732171763
+      }
+    },
+    "cus_address": {
+      "delivery_type": "office",
+      "address_book": {
+        "_id": "646dda3b6531490f4ce7924e",
+        "user": "646b2d4999d44af33c686ddf",
+        "name": "Ahad",
+        "phone": "+8801475896",
+        "province": "Dhaka",
+        "city": "Dhaka",
+        "area": "Motijhil",
+        "address": "240 Sher-E-Bangla Rd, Khulna 9100, Bangladesh",
+        "landmark": "Gulistan",
+        "delivery": "office",
+        "default_shipping_address": true,
+        "default_billing_address": true,
+        "country": "Bangladesh",
+        "is_primary": false,
+        "createdAt": "2023-05-24T09:34:51.115Z",
+        "updatedAt": "2023-06-20T05:06:16.678Z",
+        "location": {
+          "type": "Point",
+          "coordinates": [89.55680395838823, 22.813129788706267]
+        },
+        "position": {
+          "latitude": 22.813129788706267,
+          "longitude": 89.55680395838823
+        }
+      },
+      "position": {
+        "latitude": 22.813129788706267,
+        "longitude": 89.55680395838823
+      }
+    },
+    "estimated_delivery_day": "2023-07-03T00:00:00.000Z",
+    "received_time": "any_time"
+  }
+}

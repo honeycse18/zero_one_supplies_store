@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "msg": "Successfully gets categories",
+  "data": {
+    "docs": [
+      {
+        "_id": "645b332468f33c765bf34d77",
+        "name": "charger",
+        "description": "gdfgdfgdfg",
+        "active": true,
+        "parent": "645aade1e9597ad0a4daa17c"
+      }
+    ],
+    "totalDocs": 1,
+    "limit": 10,
+    "totalPages": 1,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "error": false,
+    "msg": "Login successful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDRjYTY1MjFhOTU0OTZiOTZmMzQxNGMiLCJyb2xlIjoidmVuZG9yIiwiaWF0IjoxNjgzNTIzNDY1LCJleHAiOjE2ODQ4MTk0NjV9.gudB0bm6YgFHx6RhnpnEIlSf7mAyMHtMVWN-GxDjjck",
+    "role": "vendor"
+}

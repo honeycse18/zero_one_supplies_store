@@ -1,0 +1,14 @@
+{
+  "error": false,
+  "msg": "Successfully fetched",
+  "data": [
+    {
+      "_id": "645aa77b21013a7e484ee814",
+      "name": "Electronic"
+    },
+    {
+      "_id": "645aa7a221013a7e484ee818",
+      "name": "Sport"
+    }
+  ]
+}

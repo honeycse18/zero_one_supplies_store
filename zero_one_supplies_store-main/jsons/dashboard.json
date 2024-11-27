@@ -1,0 +1,30 @@
+{
+    "error": false,
+    "data": {
+        "_id": "6476a8abcee8bf63b040995a",
+        "name": "Seller Shop",
+        "earning_sell": {
+            "_id": {
+                "store": "6476a8abcee8bf63b040995a"
+            },
+            "total_earning": 1046,
+            "total_product_sell": 3
+        },
+        "total_products": {
+            "_id": null,
+            "total_products": 3
+        },
+        "earning_graph_data": [
+            {
+                "_id": "6499410e99a13f4995720757",
+                "amount": 1000,
+                "createdAt": "2023-06-26T07:41:02.552Z"
+            },
+            {
+                "_id": "6499445c99a13f4995721ade",
+                "amount": 46,
+                "createdAt": "2023-06-26T07:55:08.079Z"
+            }
+        ]
+    }
+}

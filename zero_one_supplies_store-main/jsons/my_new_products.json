@@ -1,0 +1,85 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "docs": [
+      {
+        "_id": "64684a91060034d829c8be06",
+        "name": "BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G",
+        "model": "beauty87578kj",
+        "brand": {
+          "_id": "64684a66060034d829c8bdf9",
+          "name": "Bioaqua"
+        },
+        "categories": [
+          {
+            "_id": "645b6b0a3880fddaf6330e0e",
+            "name": "Beauty"
+          }
+        ],
+        "subcategories": [
+          {
+            "_id": "645ca732c984f79596f4c7fa",
+            "name": "asa"
+          }
+        ],
+        "unit": "unit1",
+        "quantity": {
+          "unit_quantity": 100,
+          "stock_quantity": 100,
+          "min_purchase_quantity": 100,
+          "stock_alert_quantity": 2
+        },
+        "tags": ["Beauty"],
+        "gallery_images": [
+          "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64645c8d0d98b7ea09e84d0d/gallery.jpg",
+          "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64645c8d0d98b7ea09e84d0f/gallery.jpg"
+        ],
+        "attributes": {
+          "name": "color",
+          "values": ["red"]
+        },
+        "stock_available": true,
+        "stock_visibility": true,
+        "flash_deal": false,
+        "on_sell": true,
+        "best_sell": false,
+        "hot_sell": true,
+        "trend": false,
+        "featured": false,
+        "new_arrival": true,
+        "bulk": false,
+        "trash": false,
+        "user_requested": false,
+        "is_status": true,
+        "specifications": [{ "name": "color", "value": "red" }],
+        "variants": [],
+        "createdAt": "2023-05-20T04:20:33.385Z",
+        "updatedAt": "2023-05-20T06:25:39.835Z",
+        "description": {
+          "short": "<h2 style=\"text-align:start;\"><span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\">Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G. Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.</span></h2>\n<p style=\"text-align:start;\"></p>\n<p style=\"margin-left:0px;\"></p>\n<p style=\"margin-left:0px;\"><br>&nbsp;</p>\n",
+          "long": "<p><span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\"> Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G</span> .<span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\"> Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G</span> <span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\"> Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G Product details of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G</span>&nbsp;</p>\n<p></p>\n<img src=\"https://static-01.daraz.com.bd/p/1d84e6e6117815fabb8c1653c4e3a506.jpg\" alt=\"undefined\" style=\"height: auto;width: auto\"/>\n<p></p>\n<p></p>\n<h2 style=\"text-align:start;\"><span style=\"color: rgb(33,33,33);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto-Medium;\">Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G. Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G. Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G. Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G.Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G</span></h2>\n<p style=\"text-align:start;\"></p>\n"
+        },
+        "discount": {
+          "type": "flat",
+          "amount": 45,
+          "start_date": "2023-05-19T18:00:00.000Z",
+          "end_date": "2023-05-19T18:00:00.000Z"
+        },
+        "price": 445,
+        "product_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64684d3f060034d829c8be17/product.jpg",
+        "specification_description": "Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G Specifications of BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid Exfoliation Cream Scrub 140G\n",
+        "thumb_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64684d3f060034d829c8be19/thumb.jpg"
+      }
+    ],
+    "totalDocs": 12,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 2,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": true,
+    "prevPage": null,
+    "nextPage": 2
+  }
+}

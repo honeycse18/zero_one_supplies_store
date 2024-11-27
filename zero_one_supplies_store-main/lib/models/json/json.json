@@ -1,0 +1,24 @@
+{
+    "_id":"647320f9cd47391380924898",
+    "first_name":"ablul",
+    "last_name":"babul",
+    "email":"qwerty@asdf.gh",
+    "role":"vendor",
+    "store":{
+        "_id":"",
+        "name":"",
+        "category":"",
+        "location":"",
+        "description":"",
+        "logo":"",
+        "nid_number":"",
+        "nid_image":"",
+        "address_proof":"",
+        "tax_name":"",
+        "tax_number":"",
+        "status":"",
+        "vendor":"",
+        "createdAt":"1999-12-31T18:00:00.000Z",
+        "updatedAt":"1999-12-31T18:00:00.000Z"
+    }
+}

@@ -1,0 +1,82 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "brands": [
+      {
+        "_id": "645b3dd594ba9146b68d8140",
+        "name": "HP"
+      }
+    ],
+    "tags": [
+      {
+        "_id": "645b41f6e2931ab77e24fb7d",
+        "name": "ABC"
+      },
+      {
+        "_id": "645b428bcb4ee40343561b14",
+        "name": "dfgd"
+      },
+      {
+        "_id": "645b70303880fddaf6330ee5",
+        "name": "Sabbir Ahmed"
+      }
+    ],
+    "units": [
+      {
+        "_id": "645b4854edd91d68870f8459",
+        "name": "pcsaa"
+      }
+    ],
+    "attributes": [
+      {
+        "_id": "645b5c15cba4ab8a9f200924",
+        "name": "color",
+        "attributes": ["red", "green"]
+      },
+      {
+        "_id": "645b5e0acba4ab8a9f2009b2",
+        "name": "ram",
+        "attributes": ["4", "8", "16"]
+      }
+    ],
+    "categories": [
+      {
+        "_id": "64294e648940c23fdb2ce8f4",
+        "name": "Electronics"
+      },
+      {
+        "_id": "645b332468f33c765bf34d77",
+        "name": "charger"
+      },
+      {
+        "_id": "645b3b3ade45c0f6e7f1a6e4",
+        "name": "HP"
+      },
+      {
+        "_id": "645b3bc4de45c0f6e7f1a6f1",
+        "name": "staticfiles"
+      },
+      {
+        "_id": "645b3c7bde45c0f6e7f1a718",
+        "name": "Sabbir Ahmed"
+      },
+      {
+        "_id": "645b6606cba4ab8a9f200add",
+        "name": "Monitor"
+      },
+      {
+        "_id": "645b6b0a3880fddaf6330e0e",
+        "name": "Beauty"
+      },
+      {
+        "_id": "645ca732c984f79596f4c7fa",
+        "name": "asa"
+      },
+      {
+        "_id": "645f59c068f9bdd736227b3e",
+        "name": "mobile"
+      }
+    ]
+  }
+}

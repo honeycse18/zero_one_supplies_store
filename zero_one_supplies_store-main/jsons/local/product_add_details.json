@@ -1,0 +1,83 @@
+{
+  "_id": "6476bbc078fb8232a66b286b",
+  "name": "abc",
+  "model": "d33",
+  "brand": "645b3dd594ba9146b68d8140",
+  "categories": ["64294e648940c23fdb2ce8f4"],
+  "subcategories": ["645f59c068f9bdd736227b3e"],
+  "child_category": ["6471900aea3ee521425db54c"],
+  "unit": "pcs",
+  "tags": ["Electronics", "Fashion", "Beauty"],
+  "unit_quantity": 1,
+  "stock_quantity": 12,
+  "min_purchase_quantity": 1,
+  "stock_alert_quantity": 2,
+  "price": 500,
+  "discount_value": 10,
+  "discount_type": "percentage",
+  "discount_start_date": "2023-05-31T00:00:00+06:00",
+  "discount_end_date": "2023-05-31T00:00:00+06:00",
+  "short": "<p>ddddddddddddddddddd</p>\n",
+  "long": "<p>dddddddddddddd</p>\n",
+  "attribute_name": "color",
+  "attribute_values": ["red", "green"],
+  "specification_description": "sdfsdfsdfsdfsdfsdf",
+  "specifications": [
+    {
+      "key": "sdfsdfs",
+      "value": "dfsdfsdfsdf",
+      "_id": "6476bbc078fb8232a66b286c"
+    }
+  ],
+  "stock_available": true,
+  "stock_visibility": true,
+  "flash_deal": false,
+  "new_arrival": true,
+  "on_sell": false,
+  "best_sell": false,
+  "hot_sell": false,
+  "trend": false,
+  "featured": false,
+  "popular": true,
+  "is_status": true,
+  "product_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bbc078fb8232a66b286b/product.png",
+  "thumb_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bbc078fb8232a66b286b/thumb.png",
+  "gallery_images": [
+    "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bbc078fb8232a66b286b/gallery.png",
+    "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bbc078fb8232a66b286b/gallery.png"
+  ],
+  "delivery": 15,
+  "shipping": 500,
+  "product_return": {
+    "days": 30,
+    "msg": "Without Any Damage"
+  },
+  "description": {
+    "short": "<p>ddddddddddddddddddd</p>\n",
+    "long": "<p>dddddddddddddd</p>\n"
+  },
+  "quantity": {
+    "unit_quantity": 1,
+    "stock_quantity": 12,
+    "min_purchase_quantity": 1,
+    "stock_alert_quantity": 2
+  },
+  "discount": {
+    "type": "percentage",
+    "amount": 10,
+    "start_date": "2023-05-31T00:00:00+06:00",
+    "end_date": "2023-05-31T00:00:00+06:00"
+  },
+  "attributes": {
+    "name": "color",
+    "values": ["red", "green"]
+  },
+  "delivery_info": {
+    "delivery": 15,
+    "shipping": 500,
+    "product_return": {
+      "days": 30,
+      "msg": "Without Any Damage"
+    }
+  }
+}
